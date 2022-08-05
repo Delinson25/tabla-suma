@@ -1,0 +1,11 @@
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\bin\Debug\sin nombre2.exe.config
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\bin\Debug\sin nombre2.exe
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\bin\Debug\sin nombre2.pdb
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\obj\Debug\sin nombre2.csproj.AssemblyReference.cache
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\obj\Debug\sin nombre2.csproj.SuggestedBindingRedirects.cache
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\obj\Debug\sin_nombre2.Form1.resources
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\obj\Debug\sin_nombre2.Properties.Resources.resources
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\obj\Debug\sin nombre2.csproj.GenerateResource.cache
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\obj\Debug\sin nombre2.csproj.CoreCompileInputs.cache
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\obj\Debug\sin nombre2.exe
+C:\Users\20220673\source\repos\sin nombre2\sin nombre2\obj\Debug\sin nombre2.pdb
